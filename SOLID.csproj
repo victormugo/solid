@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="2 - L\0 - Problem\" />
-    <Folder Include="2 - L\1 - Solution\" />
     <Folder Include="3 - I\0 - Problem\" />
     <Folder Include="3 - I\1 - Solution\" />
     <Folder Include="4 - D\0 - Problem\" />
