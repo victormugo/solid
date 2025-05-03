@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\source\\repos\\SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\steakorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\steakorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\saladorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\saladorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\itakeoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\itakeoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\burgerorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\burgerorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\ispeedup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\ispeedup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\isaladorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\isaladorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\ipark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\ipark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\0 - problem\\ifoodorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\0 - problem\\ifoodorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\iland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\iland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\iburguerorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\iburguerorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\ibrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\ibrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\1 - solution\\isteakorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\1 - solution\\isteakorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\2 - l\\1 - solution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:2 - l\\1 - solution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\0 - problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\0 - problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\3 - i\\0 - problem\\burguerorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:3 - i\\0 - problem\\burguerorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,118 +59,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ITakeOff.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\ITakeOff.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\ITakeOff.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\ITakeOff.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\ITakeOff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Title": "BurgerOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\BurgerOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\BurgerOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\BurgerOrderService.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\BurgerOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:06:54.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISpeedUp.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\ISpeedUp.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\ISpeedUp.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\ISpeedUp.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\ISpeedUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:06:45.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPark.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\IPark.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\IPark.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\IPark.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\IPark.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:06:35.507Z",
+              "WhenOpened": "2025-05-03T10:48:10.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Bike.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Bike.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\Bike.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Bike.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\Bike.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Title": "SaladOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\SaladOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\SaladOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\SaladOrderService.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\SaladOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:05:33.025Z",
+              "WhenOpened": "2025-05-03T10:47:55.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Car.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\Car.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Car.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Title": "SteakOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\SteakOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\SteakOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\SteakOrderService.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\SteakOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:05:40.817Z",
+              "WhenOpened": "2025-05-03T10:48:20.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Plane.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\Plane.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Plane.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\Plane.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\Program.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\Program.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:05:51.136Z",
+              "WhenOpened": "2025-05-03T10:41:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISaladOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\ISaladOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\ISaladOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\ISaladOrderService.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\ISaladOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:47:15.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFoodOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\0 - Problem\\IFoodOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\0 - Problem\\IFoodOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\0 - Problem\\IFoodOrderService.cs",
+              "RelativeToolTip": "3 - I\\0 - Problem\\IFoodOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:44:11.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ILand.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\ILand.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\ILand.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\ILand.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\ILand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Title": "IBurguerOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\IBurguerOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\IBurguerOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\IBurguerOrderService.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\IBurguerOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:06:27.072Z",
+              "WhenOpened": "2025-05-03T10:47:04.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IBrake.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\IBrake.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\IBrake.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\IBrake.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\IBrake.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Title": "ISteakOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\ISteakOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\1 - Solution\\ISteakOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\1 - Solution\\ISteakOrderService.cs",
+              "RelativeToolTip": "3 - I\\1 - Solution\\ISteakOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:06:19.791Z",
+              "WhenOpened": "2025-05-03T10:47:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BurguerOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\0 - Problem\\BurguerOrderService.cs",
+              "RelativeDocumentMoniker": "3 - I\\0 - Problem\\BurguerOrderService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\0 - Problem\\BurguerOrderService.cs",
+              "RelativeToolTip": "3 - I\\0 - Problem\\BurguerOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:43:29.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Vehicle.cs",
-              "RelativeDocumentMoniker": "2 - L\\1 - Solution\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\2 - L\\1 - Solution\\Vehicle.cs",
-              "RelativeToolTip": "2 - L\\1 - Solution\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\0 - Problem\\Program.cs",
+              "RelativeDocumentMoniker": "3 - I\\0 - Problem\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\3 - I\\0 - Problem\\Program.cs",
+              "RelativeToolTip": "3 - I\\0 - Problem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:06:02.556Z",
+              "WhenOpened": "2025-05-03T10:43:16.35Z",
               "EditorCaption": ""
             }
           ]
