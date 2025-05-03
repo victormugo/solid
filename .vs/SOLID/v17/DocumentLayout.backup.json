@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\source\\repos\\SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\1 - solution\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\1 - solution\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\1 - solution\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\1 - solution\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\1 - solution\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\1 - solution\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\1 - solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\1 - solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\0 - problem\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\0 - problem\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\0 - problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\0 - problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\1 - solution\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\1 - solution\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\1 - solution\\reportgeneratorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\1 - solution\\reportgeneratorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\1 - solution\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\1 - solution\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\1 - solution\\reportgeneratorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\1 - solution\\reportgeneratorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\1 - solution\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\1 - solution\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\1 - solution\\reportgeneratorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\1 - solution\\reportgeneratorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\0 - s\\1 - solution\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:0 - s\\1 - solution\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\1 - solution\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\1 - solution\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\0 - problem\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\0 - problem\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|c:\\users\\victor\\source\\repos\\solid\\1 - o\\0 - problem\\reportingservice_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC77EB-CD9B-401B-8BCF-9457A9619550}|SOLID.csproj|solutionrelative:1 - o\\0 - problem\\reportingservice_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,93 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\0 - Problem\\OrderService.cs",
-              "RelativeDocumentMoniker": "0 - S\\0 - Problem\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\0 - Problem\\OrderService.cs",
-              "RelativeToolTip": "0 - S\\0 - Problem\\OrderService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ReportGeneratorExcel.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportGeneratorExcel.cs",
+              "RelativeDocumentMoniker": "1 - O\\1 - Solution\\ReportGeneratorExcel.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportGeneratorExcel.cs",
+              "RelativeToolTip": "1 - O\\1 - Solution\\ReportGeneratorExcel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:43:18.991Z",
+              "WhenOpened": "2025-05-03T06:21:30.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\OrderService.cs",
-              "RelativeDocumentMoniker": "0 - S\\1 - Solution\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\OrderService.cs",
-              "RelativeToolTip": "0 - S\\1 - Solution\\OrderService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCoAAAAuAAAAAAAAAA==",
+              "Title": "ReportingService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportingService.cs",
+              "RelativeDocumentMoniker": "1 - O\\1 - Solution\\ReportingService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportingService.cs",
+              "RelativeToolTip": "1 - O\\1 - Solution\\ReportingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:57:16.07Z",
+              "WhenOpened": "2025-05-03T06:22:23.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\NotificationService.cs",
-              "RelativeDocumentMoniker": "0 - S\\1 - Solution\\NotificationService.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\NotificationService.cs",
-              "RelativeToolTip": "0 - S\\1 - Solution\\NotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\0 - Problem\\Program.cs",
+              "RelativeDocumentMoniker": "1 - O\\0 - Problem\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\0 - Problem\\Program.cs",
+              "RelativeToolTip": "1 - O\\0 - Problem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:56:36.7Z",
+              "WhenOpened": "2025-05-03T05:22:09.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\LoggerService.cs",
-              "RelativeDocumentMoniker": "0 - S\\1 - Solution\\LoggerService.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\LoggerService.cs",
-              "RelativeToolTip": "0 - S\\1 - Solution\\LoggerService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAcAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\Program.cs",
+              "RelativeDocumentMoniker": "1 - O\\1 - Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\Program.cs",
+              "RelativeToolTip": "1 - O\\1 - Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:56:09.167Z",
+              "WhenOpened": "2025-05-03T05:21:51.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InvoiceService.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\InvoiceService.cs",
-              "RelativeDocumentMoniker": "0 - S\\1 - Solution\\InvoiceService.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\InvoiceService.cs",
-              "RelativeToolTip": "0 - S\\1 - Solution\\InvoiceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Title": "ReportGeneratorXML.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportGeneratorXML.cs",
+              "RelativeDocumentMoniker": "1 - O\\1 - Solution\\ReportGeneratorXML.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportGeneratorXML.cs",
+              "RelativeToolTip": "1 - O\\1 - Solution\\ReportGeneratorXML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:43:24.29Z",
+              "WhenOpened": "2025-05-03T06:21:56.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "0 - S\\1 - Solution\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\OrderRepository.cs",
-              "RelativeToolTip": "0 - S\\1 - Solution\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "ReportGeneratorPDF.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportGeneratorPDF.cs",
+              "RelativeDocumentMoniker": "1 - O\\1 - Solution\\ReportGeneratorPDF.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\ReportGeneratorPDF.cs",
+              "RelativeToolTip": "1 - O\\1 - Solution\\ReportGeneratorPDF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:57:03.19Z",
+              "WhenOpened": "2025-05-03T06:21:44.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\Order.cs",
-              "RelativeDocumentMoniker": "0 - S\\1 - Solution\\Order.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\0 - S\\1 - Solution\\Order.cs",
-              "RelativeToolTip": "0 - S\\1 - Solution\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\IReportGenerator.cs",
+              "RelativeDocumentMoniker": "1 - O\\1 - Solution\\IReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\1 - Solution\\IReportGenerator.cs",
+              "RelativeToolTip": "1 - O\\1 - Solution\\IReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:56:47.172Z",
+              "WhenOpened": "2025-05-03T06:21:17.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportingService_2.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\0 - Problem\\ReportingService_2.cs",
+              "RelativeDocumentMoniker": "1 - O\\0 - Problem\\ReportingService_2.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\0 - Problem\\ReportingService_2.cs",
+              "RelativeToolTip": "1 - O\\0 - Problem\\ReportingService_2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:22:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportingService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\0 - Problem\\ReportingService.cs",
+              "RelativeDocumentMoniker": "1 - O\\0 - Problem\\ReportingService.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\SOLID\\1 - O\\0 - Problem\\ReportingService.cs",
+              "RelativeToolTip": "1 - O\\0 - Problem\\ReportingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:22:32.522Z",
               "EditorCaption": ""
             }
           ]
